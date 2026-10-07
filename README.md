@@ -112,13 +112,6 @@ Berikut adalah pustaka (*libraries*) utama yang digunakan dalam pengembangan apl
 
 ---
 
-## 📄 Penjelasan Detail Kode Per File
-
-Penjelasan terperinci mengenai setiap kelas, fungsi, dan komponen baris per baris dapat dibaca pada file berikut:
-👉 **[Penjelasan Detail Kode (README_CODE_EXPLANATION.md)](README_CODE_EXPLANATION.md)**
-
----
-
 ## 🚀 Cara Menjalankan Aplikasi
 
 ### Persyaratan
