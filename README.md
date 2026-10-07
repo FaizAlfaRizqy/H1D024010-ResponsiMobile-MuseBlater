@@ -19,9 +19,13 @@
 
 ## 📸 Tampilan Screenshot Aplikasi
 
-<img width="720" height="1465" alt="WhatsApp Image 2026-10-07 at 23 45 46" src="https://github.com/user-attachments/assets/46249331-738b-4946-951e-ef892ea6de5f" />
-<img width="720" height="1465" alt="WhatsApp Image 2026-10-07 at 23 45 46 (1)" src="https://github.com/user-attachments/assets/7d73decf-d48c-4445-a350-6eebcb7a8175" />
-<img width="720" height="1465" alt="WhatsApp Image 2026-10-07 at 23 46 34" src="https://github.com/user-attachments/assets/8dd99902-857e-48b6-99b8-2453495d804f" />
+<div align="center">
+
+| 🏠 Halaman Utama (Home) | 🔍 Pencarian & Filter Genre | 📖 Detail Anime |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/46249331-738b-4946-951e-ef892ea6de5f" width="260" alt="Halaman Utama Muse Blater" /> | <img src="https://github.com/user-attachments/assets/7d73decf-d48c-4445-a350-6eebcb7a8175" width="260" alt="Pencarian & Genre" /> | <img src="https://github.com/user-attachments/assets/8dd99902-857e-48b6-99b8-2453495d804f" width="260" alt="Detail Anime" /> |
+
+</div>
 
 ---
 
@@ -105,6 +109,13 @@ Berikut adalah pustaka (*libraries*) utama yang digunakan dalam pengembangan apl
 | **Coil Compose** | `2.7.0` | Pustaka pemuat gambar (*image loader*) berbasis Coroutines untuk mengunduh, menampilkan, dan meng-cache gambar poster anime secara asinkron. |
 | **Kotlin Coroutines & Flow (StateFlow)** | `1.10.2` | Pustaka *asynchronous programming* untuk menjalankan proses jaringan di background thread serta mengalirkan state UI secara reaktif dengan `StateFlow`. |
 | **Plus Jakarta Sans Font** | Kustom | Font tipografi resmi aplikasi yang memberikan tampilan visual modern dan bersih sesuai spesifikasi Google Stitch UI. |
+
+---
+
+## 📄 Penjelasan Detail Kode Per File
+
+Penjelasan terperinci mengenai setiap kelas, fungsi, dan komponen baris per baris dapat dibaca pada file berikut:
+👉 **[Penjelasan Detail Kode (README_CODE_EXPLANATION.md)](README_CODE_EXPLANATION.md)**
 
 ---
 
