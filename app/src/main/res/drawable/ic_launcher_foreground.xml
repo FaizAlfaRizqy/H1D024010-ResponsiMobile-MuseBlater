@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Play triangle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,30 L80,54 L35,78 Z"/>
+    <!-- 4-point sparkle top-right -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M82,22 L85,30 L93,33 L85,36 L82,44 L79,36 L71,33 L79,30 Z"/>
+</vector>

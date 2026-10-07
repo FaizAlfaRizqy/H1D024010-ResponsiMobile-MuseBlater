@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Play triangle (Muse part) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M8,5 L19,12 L8,19 Z" />
+    <!-- Sparkle star (Blater part) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,3 L21,6 L24,7 L21,8 L20,11 L19,8 L16,7 L19,6 Z" />
+</vector>
