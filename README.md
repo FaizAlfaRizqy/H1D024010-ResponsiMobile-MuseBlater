@@ -21,7 +21,7 @@
 
 <div align="center">
 
-| 🏠 Halaman Utama (Home) | 🔍 Pencarian & Filter Genre | 📖 Detail Anime |
+| 🏠 Halaman Utama (Home) | 📖 Detail Anime | 🔍 Pencarian & Filter Genre |
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/46249331-738b-4946-951e-ef892ea6de5f" width="260" alt="Halaman Utama Muse Blater" /> | <img src="https://github.com/user-attachments/assets/7d73decf-d48c-4445-a350-6eebcb7a8175" width="260" alt="Pencarian & Genre" /> | <img src="https://github.com/user-attachments/assets/8dd99902-857e-48b6-99b8-2453495d804f" width="260" alt="Detail Anime" /> |
 
